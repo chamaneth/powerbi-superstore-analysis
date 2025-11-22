@@ -66,4 +66,4 @@ In **Power BI**:
 
 
 ## Hashtags / Tags
-#PowerBI #DataAnalysis #RetailDashboard #Python #DAX #DataCleaning #Visualization #InternshipProject #PortfolioProject
+#PowerBI #DataAnalysis #RetailDashboard #Python #DAX #DataCleaning #Visualization 
