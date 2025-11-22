@@ -20,7 +20,7 @@ In **Power BI**:
 - Added calculated columns:
   - `OrderYear`, `OrderMonth`, `OrderQuarter`, `MonthYear`  
   - `TotalSales` (if missing)  
-- Created **DAX measures**:
+- Created DAX measures:
   - `TotalSalesMeasure`, `TotalProfitMeasure`, `TotalQuantity`, `AvgDiscount`, `ProfitMargin`  
 
 ---
